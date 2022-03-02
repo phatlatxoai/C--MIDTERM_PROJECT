@@ -1,0 +1,17 @@
+E:\VLU\Lap trinh huong doi tuong\bai 2 ex\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+E:\VLU\Lap trinh huong doi tuong\bai 2 ex\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+E:\VLU\Lap trinh huong doi tuong\bai 2 ex\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+E:\VLU\Lap trinh huong doi tuong\bai 2 ex\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+E:\VLU\Lap trinh huong doi tuong\bai 2 ex\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.SuggestedBindingRedirects.cache
+E:\VLU\Lap trinh huong doi tuong\bai 2 ex\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+E:\VLU\Lap trinh huong doi tuong\bai 2 ex\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form2.resources
+E:\VLU\Lap trinh huong doi tuong\bai 2 ex\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+E:\VLU\Lap trinh huong doi tuong\bai 2 ex\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+E:\VLU\Lap trinh huong doi tuong\bai 2 ex\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+E:\VLU\Lap trinh huong doi tuong\bai 2 ex\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+E:\VLU\Lap trinh huong doi tuong\bai 2 ex\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+E:\VLU\Lap trinh huong doi tuong\bai 2 ex\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\EntityFramework.dll
+E:\VLU\Lap trinh huong doi tuong\bai 2 ex\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\EntityFramework.SqlServer.dll
+E:\VLU\Lap trinh huong doi tuong\bai 2 ex\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\EntityFramework.xml
+E:\VLU\Lap trinh huong doi tuong\bai 2 ex\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\EntityFramework.SqlServer.xml
+E:\VLU\Lap trinh huong doi tuong\bai 2 ex\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CopyComplete
